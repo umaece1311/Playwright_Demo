@@ -1,0 +1,12 @@
+Let's Shop
+[ 'ZARA COAT 3', 'ADIDAS ORIGINAL', 'IPHONE 13 PRO' ]
+  65b15dfca86f8f74dc608f37  
+locator('tbody tr')
+65b15dfca86f8f74dc608f37
+65b15dfba86f8f74dc608f30
+65b15df3a86f8f74dc608ef1
+65b15de4a86f8f74dc608ea8
+65b15ca3a86f8f74dc608de8
+65b15c7ba86f8f74dc608dc1
+65b15c6da86f8f74dc608d9b
+65b15c69a86f8f74dc608d89

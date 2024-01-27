@@ -1,0 +1,20 @@
+[{
+    "username":"uma.k@gmail.com",
+    "password":"San#2017",
+    "productName": "ZARA COAT 3",
+    "countryCode":"ind",
+    "countryName":"India",
+    "cvc":"123",
+    "cardName":"uma",
+    "discountCode":"1234243"
+},
+{
+    "username":"uma.k@gmail.com",
+    "password":"San#2017",
+    "productName": "IPHONE 13 PRO",
+    "countryCode":"chi",
+    "countryName":"China",
+    "cvc":"345",
+    "cardName":"Manikandan",
+    "discountCode":"523428"
+}]
